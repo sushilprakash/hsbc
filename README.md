@@ -1,2 +1,1 @@
-# hsbc
-UI design for ATM process
+# UI design for ATM process
